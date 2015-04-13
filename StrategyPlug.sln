@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TonghuaShun", "TonghuaShun\TonghuaShun.vcxproj", "{3F0D3417-1E7E-4A5F-BB32-A8CAF669ED33}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Trial", "Trial\Trial.vcxproj", "{239780BD-9F48-4EC2-AC6D-7AA0763AADE4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TrialHook", "TrialHook\TrialHook.vcxproj", "{2E932E14-267C-4791-80C2-DD918C9C55A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F0D3417-1E7E-4A5F-BB32-A8CAF669ED33}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3F0D3417-1E7E-4A5F-BB32-A8CAF669ED33}.Debug|Win32.Build.0 = Debug|Win32
+		{3F0D3417-1E7E-4A5F-BB32-A8CAF669ED33}.Release|Win32.ActiveCfg = Release|Win32
+		{3F0D3417-1E7E-4A5F-BB32-A8CAF669ED33}.Release|Win32.Build.0 = Release|Win32
+		{239780BD-9F48-4EC2-AC6D-7AA0763AADE4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{239780BD-9F48-4EC2-AC6D-7AA0763AADE4}.Debug|Win32.Build.0 = Debug|Win32
+		{239780BD-9F48-4EC2-AC6D-7AA0763AADE4}.Release|Win32.ActiveCfg = Release|Win32
+		{239780BD-9F48-4EC2-AC6D-7AA0763AADE4}.Release|Win32.Build.0 = Release|Win32
+		{2E932E14-267C-4791-80C2-DD918C9C55A7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2E932E14-267C-4791-80C2-DD918C9C55A7}.Debug|Win32.Build.0 = Debug|Win32
+		{2E932E14-267C-4791-80C2-DD918C9C55A7}.Release|Win32.ActiveCfg = Release|Win32
+		{2E932E14-267C-4791-80C2-DD918C9C55A7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
